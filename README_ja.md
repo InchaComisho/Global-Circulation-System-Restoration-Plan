@@ -364,8 +364,8 @@
 
 ## ライセンス
 
-**CC BY-SA 4.0**  
-**Creative Commons Attribution-ShareAlike 4.0 International**
+**CC BY 4.0**  
+**Creative Commons Attribution 4.0 International**
 
 本資料は、表示・継承条件のもとで、共有、翻案、再配布、研究、教育、技術検討に利用できる。  
 改変・翻案を行う場合は、同一または互換性のあるライセンスでの共有を推奨する。
